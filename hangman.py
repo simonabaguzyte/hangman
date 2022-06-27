@@ -1,0 +1,1 @@
+print("\n***WELCOME TO HANGMAN - GUESS THE WORD GAME!***")
